@@ -1,14 +1,14 @@
 ### Known Technologies
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/SQL-4053D6?logo=amazondynamodb&logoColor=fff)](#)
+[![Javascript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Static Badge](https://img.shields.io/badge/HTML-%23e34c26?style=for-the-badge&logo=html5&labelColor=black)](#)
+[![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=orange&labelColor=black)](#)
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=black)](#)
+[![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-8a2be2?style=for-the-badge&logo=kotlin&labelColor=black)](#)
+[![SQL](https://img.shields.io/badge/SQL-4053d6?style=for-the-badge&logo=amazondynamodb&logoColor=4053d6&labelColor=black)](#)
 <br/>
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&labelColor=black)](#)
 
 <br/>
 
