@@ -6,8 +6,8 @@
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=black)](#)
 [![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-8a2be2?style=for-the-badge&logo=kotlin&labelColor=black)](#)
-[![SQL](https://img.shields.io/badge/SQL-4053d6?style=for-the-badge&logo=amazondynamodb&logoColor=4053d6&labelColor=black)](#)
 <br/>
+[![SQL](https://img.shields.io/badge/SQL-4053d6?style=for-the-badge&logo=amazondynamodb&logoColor=4053d6&labelColor=black)](#)
 [![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&labelColor=black)](#)
 
 <br/>
