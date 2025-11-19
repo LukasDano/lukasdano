@@ -27,7 +27,7 @@
                 </div>
             </td>
             <td style="padding:10px">
-                  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasDano&size_weight=0.5&count_weight=0.5&theme=tokyonight&langs_count=10"/>
+                <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasDano&size_weight=0.5&count_weight=0.5&theme=tokyonight&langs_count=10&hide=html,css,php"/>
             </td>
         </tr>
     </table>
