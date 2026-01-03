@@ -14,6 +14,7 @@
 
 <br/>
 
+<!--
 ### Stats
 <div id="image-table" align="center">
     <table>
@@ -32,3 +33,4 @@
         </tr>
     </table>
 </div>
+-->
