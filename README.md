@@ -9,8 +9,9 @@
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&labelColor=black&logoColor=00add8)](#)
 <br/>
 <br/>
-[![SQL](https://img.shields.io/badge/SQL-4053d6?style=for-the-badge&logo=amazondynamodb&logoColor=4053d6&labelColor=black)](#)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 [![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&labelColor=black)](#)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 <br/>
 
