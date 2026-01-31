@@ -19,16 +19,16 @@
 <div id="image-table" align="center">
     <table>
         <tr>
+                   <!--
             <td style="padding:10px" align="center">
                 <div>
-                   <!--
                   <img src=https://streak-stats.demolab.com/?user=LukasDano&theme=tokyonight&&hide_border=true&card_width=495 />
                   </br>
                   </br>
-                   -->
                   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LukasDano&show_icons=true&theme=tokyonight"/>
                 </div>
             </td>
+                   -->
             <td style="padding:10px">
                 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasDano&size_weight=0.5&count_weight=0.5&theme=tokyonight&langs_count=20&hide=html,css"/>
             </td>
