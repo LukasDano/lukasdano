@@ -1,4 +1,4 @@
-### Known Technologies
+### Languages
 
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/HTML-%23e34c26?style=for-the-badge&logo=html5&labelColor=black)](#)
@@ -8,30 +8,33 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-8a2be2?style=for-the-badge&logo=kotlin&labelColor=black)](#)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&labelColor=black&logoColor=00add8)](#)
 <br/>
-<br/>
+
+### Frameworks / Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 [![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&labelColor=black)](#)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 <br/>
 
-### Stats
-<div id="image-table" align="center">
-    <table>
-        <tr>
-                   <!--
-            <td style="padding:10px" align="center">
-                <div>
-                  <img src=https://streak-stats.demolab.com/?user=LukasDano&theme=tokyonight&&hide_border=true&card_width=495 />
-                  </br>
-                  </br>
-                  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LukasDano&show_icons=true&theme=tokyonight"/>
-                </div>
-            </td>
-                   -->
-            <td style="padding:10px">
-                <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasDano&size_weight=0.5&count_weight=0.5&theme=tokyonight&langs_count=20&hide=html,css"/>
-            </td>
-        </tr>
-    </table>
-</div>
+<!--
+    ### Stats
+    <div id="image-table" align="center">
+        <table>
+            <tr>
+    
+                <td style="padding:10px" align="center">
+                    <div>
+                      <img src=https://streak-stats.demolab.com/?user=LukasDano&theme=tokyonight&&hide_border=true&card_width=495 />
+                      </br>
+                      </br>
+                      <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LukasDano&show_icons=true&theme=tokyonight"/>
+                    </div>
+                </td>
+    
+                <td style="padding:10px">
+                    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasDano&size_weight=0.5&count_weight=0.5&theme=tokyonight&langs_count=20&hide=html,css"/>
+                </td>
+            </tr>
+        </table>
+    </div>
+-->
