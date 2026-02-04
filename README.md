@@ -9,10 +9,15 @@
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&labelColor=black&logoColor=00add8)](#)
 <br/>
 
-### Frameworks / Tools
+### Frameworks
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 [![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&labelColor=black)](#)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+<br/>
+
+### IDEs
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-FE2857.svg?style=for-the-badge&labelColor=black&logo=intellij-idea&logoColor=087CFA)](#)
+[![WebStorm](https://img.shields.io/badge/WebStorm-07C3F2?style=for-the-badge&labelColor=black&logo=WebStorm&logoColor=FCF84A)](#)
 
 <br/>
 
