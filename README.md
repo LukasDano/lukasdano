@@ -14,12 +14,13 @@
 [![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&labelColor=black)](#)
 <br/>
 
-### IDEs
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-FE2857.svg?style=for-the-badge&labelColor=black&logo=intellij-idea&logoColor=087CFA)](#)
-[![WebStorm](https://img.shields.io/badge/WebStorm-07C3F2?style=for-the-badge&labelColor=black&logo=WebStorm&logoColor=FCF84A)](#)
-
-<br/>
+<!--
+    ### IDEs
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-FE2857.svg?style=for-the-badge&labelColor=black&logo=intellij-idea&logoColor=087CFA)](#)
+    [![WebStorm](https://img.shields.io/badge/WebStorm-07C3F2?style=for-the-badge&labelColor=black&logo=WebStorm&logoColor=FCF84A)](#)
+    <br/>
+-->
 
 <!--
     ### Stats
