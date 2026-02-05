@@ -1,12 +1,12 @@
 ### Languages
 
-[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=black)](#)
-[![Static Badge](https://img.shields.io/badge/HTML-%23e34c26?style=for-the-badge&logo=html5&labelColor=black)](#)
-[![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=orange&labelColor=black)](#)
-[![Javascript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![Kotlin](https://img.shields.io/badge/Kotlin-8a2be2?style=for-the-badge&logo=kotlin&labelColor=black)](#)
-[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&labelColor=black&logoColor=00add8)](#)
+[![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&labelColor=black&logoColor=3572A5)](#)
+[![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&labelColor=black&logoColor=e34c26)](#)
+[![Java](https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=openjdk&logoColor=orange&labelColor=black&logoColor=b07219)](#)
+[![Javascript](https://img.shields.io/badge/-Javascript-f1e05a?style=for-the-badge&labelColor=black&logo=javascript&logoColor=f1e05a)](#)
+[![Typescript](https://img.shields.io/badge/-Typescript-3178c6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178c6)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=for-the-badge&logo=kotlin&labelColor=black&logoColor=A97BFF)](#)
+[![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white&labelColor=black&logoColor=00ADD8)](#)
 <br/>
 
 ### Frameworks
